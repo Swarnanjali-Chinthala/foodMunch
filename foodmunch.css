@@ -1,0 +1,226 @@
+
+#nav-item1 {
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#nav-item2 {
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#nav-item3 {
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+#nav-item4 {
+    font-weight: bold;
+    font-family: "Roboto";
+    color: #323f4b;
+}
+
+.foodmunchlogo {
+    height: 70px;
+    width: 80px;
+}
+
+.bannersection-bgcontainer {
+    background-image: url("https://media.istockphoto.com/id/1093395034/photo/grilled-new-zealand-lamb-chops-plated-with-sauteed-brussel-sprouts.jpg?b=1&s=612x612&w=0&k=20&c=8sQcjddQ75ji8Wi5H2aCPYBcY3E2bZo8DEZj5ZFRoBM=");
+    height: 100vh;
+    background-size: cover;
+}
+
+h1 {
+    color: white;
+    font-family: "ital";
+}
+
+p {
+    color: white;
+    font-family: "ital";
+}
+
+.button1 {
+    border-radius: 8px;
+    background-color: yellow;
+    border-width: 0px;
+    padding: 5px;
+}
+
+.button2 {
+    border-radius: 8px;
+    background-color: transparent;
+    border-width: 1px;
+    border-color: yellow;
+    padding: 5px;
+    color: yellow;
+
+}
+
+.log {
+    height: 50px;
+    width: 50px;
+}
+
+.back_comtainer {
+    background-color: #eac2f0;
+}
+
+.con1 {
+    background-color: #842f91;
+    border-radius: 10px;
+    text-align: center;
+    padding: 10px;
+    margin: 5px;
+}
+
+.h12 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.offers {
+    font-weight: bold;
+    font-family: italic;
+}
+
+.container1 {
+    background-color: #fcc305;
+}
+
+.h {
+    font-family: "Roboto";
+    font-weight: bold;
+    color: #110569;
+    font-size: 30px;
+}
+
+.h11 {
+    font-size: 15px;
+}
+
+.img_adj {
+    border-radius: 26px;
+}
+
+.container2 {
+    background-color: #f0d975;
+    border-radius: 16px;
+    text-align: center;
+}
+
+.tag_ {
+    font-weight: bold;
+    color: #695607;
+}
+
+.healthy-food-section {
+    background-color: #f9fbfe;
+}
+
+.healthy-food-section-img {
+    width: 270px;
+}
+
+.healthy-food-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.healthy-food-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.custom-button {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: #d0b200;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.delivery-and-payment-section-img {
+    width: 270px;
+}
+
+.delivery-and-payment-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.delivery-and-payment-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.payment-card-img {
+    width: 50px;
+    height: 50px;
+    margin-right: 28px;
+}
+
+.thanking-customers-section {
+    background-color: #d0b2001a;
+}
+
+.thanking-customers-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+}
+
+.thanking-customers-section-description {
+    color: #5a7184;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+
+.thanking-customers-section-img {
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.follow-us-section {
+    background-color: white;
+}
+
+.follow-us-section-heading {
+    font-family: "Roboto";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+    text-align: center;
+}
+
+.icon {
+    color: #d0b200;
+    font-size: 55px;
+}
+
+.icon_container {
+    margin: 15px;
+    padding-top: 12px;
+    padding-bottom: 14px;
+    text-align: center;
+    background-color: #faf7e8;
+    height: 50px;
+    width: 50px;
+    border-radius: 40px;
+}
